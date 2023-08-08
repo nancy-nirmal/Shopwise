@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #bd3d3d;
+    color: #fff;
+    padding: 0.1px;
+}
+
+nav ul {
+    text-align: right;
+    list-style-type: none;
+    margin: 35px;
+}
+
+
+nav li {
+        display: inline-block;
+        margin-right: 10px;
+}
+
+    nav a {
+        color: #fff;
+        text-decoration: none;
+    }
+
+    th {
+        background-color: rgb(161, 149, 149);
+        color: #000000;
+    }
